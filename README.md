@@ -1,4 +1,5 @@
-PDF Viewer Application
+# PDF Viewer Application
+
 Overview
 
 Welcome to the PDF Viewer project! This desktop application, built with PyQt5 and PyMuPDF, allows you to view and manage PDF files with a sleek, customizable interface. Whether you need to browse through your documents, zoom in on details, or switch between dark and light themes, this tool provides an intuitive and user-friendly experience.
