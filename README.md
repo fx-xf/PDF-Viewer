@@ -11,7 +11,7 @@ Features
     File Management: Add, delete, and view a list of previously opened PDF files.
     Dark and Light Themes: Toggle between a dark and light theme to suit your preference.
 
-Installation
+# Installation
 
 To get started with the PDF Viewer application, you'll need to set up your environment. Follow these steps:
 
@@ -25,7 +25,7 @@ Create a Virtual Environment (optional but recommended):
     python -m venv venv
     source venv/bin/activate  
     
-# On Windows, use 
+On Windows, use 
     `venv\Scripts\activate`
 
 Install Dependencies:
@@ -36,7 +36,8 @@ Run the Application:
 
     python main.py
 
-Usage
+# Usage
+
 Navigating the Application
 
     Open PDF: Click the "Open File" button to select and open a PDF document.
